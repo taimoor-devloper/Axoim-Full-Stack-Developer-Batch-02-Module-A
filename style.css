@@ -1,0 +1,81 @@
+
+    /* <!-- CSS --> */
+        * {
+            text-align: center;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+
+        body {
+            background-color: rgba(211, 211, 211, 0.781);
+        }
+
+        body b {
+            background-color: rgba(250, 250, 210, 0.596);
+            color: lightcoral;
+            border-radius: 10px;
+        }
+
+        h1+p {
+            color: rgba(136, 84, 185, 0.863);
+            font-weight: bold;
+        }
+
+        p {
+            font-weight: bold;
+        }
+
+        h2 {
+            color: rgb(223, 96, 115);
+        }
+
+        li {
+            list-style-type: none;
+            margin: 20px;
+        }
+
+        a {
+            color: rgb(111, 135, 158);
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: rgb(25, 136, 73);
+            cursor: pointer;
+        }
+
+        img {
+            width: 40px;
+            display: block;
+            position: relative;
+            left: 48vw;
+        }
+
+        .p1{
+            display: inline;
+            position: relative;
+            right: 50px;
+        }
+
+        .p2{
+            display: inline;
+            position: relative;
+            right: 28px;
+        }
+
+        .p3{
+            display: inline;
+            position: relative;
+            right: 107px;
+        }
+
+        .p4{
+            display: inline;
+            position: relative;
+            right: 46px;
+        }
+
+        .projects{
+            background-color: rgba(176, 207, 218, 0.836);
+            display: inline-block;
+            margin-top: 20px;
+        }
